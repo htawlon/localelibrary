@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79cc537d-f464-43b1-b49d-9df481d82805" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PLmSQy0AYHbcawmDCWY72WGgVz" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logo-img-folder" />
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bst/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79cc537d-f464-43b1-b49d-9df481d82805" name="Default Changelist" comment="" />
+      <created>1558293077020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558293077020</updated>
+      <workItem from="1558293078693" duration="55000" />
+      <workItem from="1558293159173" duration="6980000" />
+      <workItem from="1558322936676" duration="992000" />
+      <workItem from="1558329237408" duration="596000" />
+      <workItem from="1558334069879" duration="1485000" />
+      <workItem from="1558402014283" duration="287000" />
+      <workItem from="1558412355130" duration="1746000" />
+      <workItem from="1558442332084" duration="19744000" />
+      <workItem from="1558648184011" duration="6642000" />
+      <workItem from="1558709058373" duration="16961000" />
+      <workItem from="1558793727023" duration="712000" />
+      <workItem from="1558850338498" duration="17839000" />
+      <workItem from="1558967092759" duration="7786000" />
+      <workItem from="1559021172520" duration="51000" />
+      <workItem from="1559053126802" duration="820000" />
+      <workItem from="1559369595750" duration="9566000" />
+      <workItem from="1560230778027" duration="1355000" />
+      <workItem from="1560297023650" duration="29000" />
+      <workItem from="1560297132468" duration="157000" />
+      <workItem from="1560297792280" duration="3157000" />
+      <workItem from="1560304536013" duration="9439000" />
+      <workItem from="1560403540758" duration="495000" />
+      <workItem from="1562253522412" duration="693000" />
+      <workItem from="1565661756753" duration="45000" />
+      <workItem from="1565661803335" duration="855000" />
+      <workItem from="1565665094160" duration="599000" />
+      <workItem from="1565667828018" duration="75000" />
+      <workItem from="1565764563553" duration="1730000" />
+      <workItem from="1567581034137" duration="177000" />
+      <workItem from="1567827466293" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/category.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
